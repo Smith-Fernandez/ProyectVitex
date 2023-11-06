@@ -1,8 +1,0 @@
-Cámara frontal: 12 MP
-Dual SIM: No
-Cámara principal: 48 + 12 + 12 MP
-Memoria Interna: 256 GB
-Memoria RAM: 6 GB
-Tamaño de pantalla: 6.1"
-Resolución de pantalla: 2556 x 1179 píxeles
-Sistema operativo: iOS
